@@ -1,0 +1,9 @@
+c:\C#\Lab8B\Lab8B\bin\Debug\Lab8B.exe.config
+c:\C#\Lab8B\Lab8B\bin\Debug\Lab8B.exe
+c:\C#\Lab8B\Lab8B\bin\Debug\Lab8B.pdb
+c:\C#\Lab8B\Lab8B\obj\Debug\Lab8B.csprojResolveAssemblyReference.cache
+c:\C#\Lab8B\Lab8B\obj\Debug\Lab8B.exe
+c:\C#\Lab8B\Lab8B\obj\Debug\Lab8B.pdb
+F:\C#\Lab8B\Lab8B\bin\Debug\Lab8B.exe.config
+F:\C#\Lab8B\Lab8B\obj\Debug\Lab8B.exe
+F:\C#\Lab8B\Lab8B\obj\Debug\Lab8B.pdb
