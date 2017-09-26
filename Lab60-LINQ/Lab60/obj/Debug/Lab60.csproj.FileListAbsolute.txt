@@ -1,0 +1,6 @@
+F:\C#\Lab60\Lab60\bin\Debug\Lab60.exe.config
+F:\C#\Lab60\Lab60\bin\Debug\Lab60.exe
+F:\C#\Lab60\Lab60\bin\Debug\Lab60.pdb
+F:\C#\Lab60\Lab60\obj\Debug\Lab60.csprojResolveAssemblyReference.cache
+F:\C#\Lab60\Lab60\obj\Debug\Lab60.exe
+F:\C#\Lab60\Lab60\obj\Debug\Lab60.pdb
