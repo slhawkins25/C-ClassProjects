@@ -1,0 +1,18 @@
+c:\users\savanna\documents\visual studio 2017\Projects\Lab17\Lab17\bin\Debug\Lab17.exe.config
+c:\users\savanna\documents\visual studio 2017\Projects\Lab17\Lab17\bin\Debug\Lab17.exe
+c:\users\savanna\documents\visual studio 2017\Projects\Lab17\Lab17\bin\Debug\Lab17.pdb
+c:\users\savanna\documents\visual studio 2017\Projects\Lab17\Lab17\obj\Debug\Lab17.csprojResolveAssemblyReference.cache
+c:\users\savanna\documents\visual studio 2017\Projects\Lab17\Lab17\obj\Debug\Lab17.exe
+c:\users\savanna\documents\visual studio 2017\Projects\Lab17\Lab17\obj\Debug\Lab17.pdb
+C:\C#\Lab17\Lab17\bin\Debug\Lab17.exe.config
+C:\C#\Lab17\Lab17\bin\Debug\Lab17.exe
+C:\C#\Lab17\Lab17\bin\Debug\Lab17.pdb
+C:\C#\Lab17\Lab17\obj\Debug\Lab17.csprojResolveAssemblyReference.cache
+C:\C#\Lab17\Lab17\obj\Debug\Lab17.exe
+C:\C#\Lab17\Lab17\obj\Debug\Lab17.pdb
+F:\C#\Lab17\Lab17\bin\Debug\Lab17.exe.config
+F:\C#\Lab17\Lab17\obj\Debug\Lab17.exe
+F:\C#\Lab17\Lab17\obj\Debug\Lab17.pdb
+F:\C#\Lab17\Lab17\bin\Debug\Lab17.exe
+F:\C#\Lab17\Lab17\bin\Debug\Lab17.pdb
+F:\C#\Lab17\Lab17\obj\Debug\Lab17.csprojResolveAssemblyReference.cache

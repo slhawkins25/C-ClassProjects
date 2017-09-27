@@ -1,0 +1,9 @@
+C:\C#\Lab17A\Lab17A\bin\Debug\Lab17A.exe.config
+C:\C#\Lab17A\Lab17A\bin\Debug\Lab17A.exe
+C:\C#\Lab17A\Lab17A\bin\Debug\Lab17A.pdb
+C:\C#\Lab17A\Lab17A\obj\Debug\Lab17A.csprojResolveAssemblyReference.cache
+C:\C#\Lab17A\Lab17A\obj\Debug\Lab17A.exe
+C:\C#\Lab17A\Lab17A\obj\Debug\Lab17A.pdb
+F:\C#\Lab17A\Lab17A\bin\Debug\Lab17A.exe.config
+F:\C#\Lab17A\Lab17A\obj\Debug\Lab17A.exe
+F:\C#\Lab17A\Lab17A\obj\Debug\Lab17A.pdb
