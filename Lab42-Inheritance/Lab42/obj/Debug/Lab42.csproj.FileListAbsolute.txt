@@ -1,0 +1,12 @@
+C:\C#\Lab42\Lab42\bin\Debug\Lab42.exe.config
+C:\C#\Lab42\Lab42\bin\Debug\Lab42.exe
+C:\C#\Lab42\Lab42\bin\Debug\Lab42.pdb
+C:\C#\Lab42\Lab42\obj\Debug\Lab42.csprojResolveAssemblyReference.cache
+C:\C#\Lab42\Lab42\obj\Debug\Lab42.exe
+C:\C#\Lab42\Lab42\obj\Debug\Lab42.pdb
+F:\C#\Lab42\Lab42\bin\Debug\Lab42.exe.config
+F:\C#\Lab42\Lab42\obj\Debug\Lab42.exe
+F:\C#\Lab42\Lab42\obj\Debug\Lab42.pdb
+F:\C#\Lab42\Lab42\bin\Debug\Lab42.exe
+F:\C#\Lab42\Lab42\bin\Debug\Lab42.pdb
+F:\C#\Lab42\Lab42\obj\Debug\Lab42.csprojResolveAssemblyReference.cache
