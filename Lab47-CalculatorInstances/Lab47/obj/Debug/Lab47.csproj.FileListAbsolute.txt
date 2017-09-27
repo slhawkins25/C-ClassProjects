@@ -1,0 +1,12 @@
+c:\C#\Lab47\Lab47\bin\Debug\Lab47.exe.config
+c:\C#\Lab47\Lab47\bin\Debug\Lab47.exe
+c:\C#\Lab47\Lab47\bin\Debug\Lab47.pdb
+c:\C#\Lab47\Lab47\obj\Debug\Lab47.csprojResolveAssemblyReference.cache
+c:\C#\Lab47\Lab47\obj\Debug\Lab47.exe
+c:\C#\Lab47\Lab47\obj\Debug\Lab47.pdb
+F:\C#\Lab47\Lab47\bin\Debug\Lab47.exe.config
+F:\C#\Lab47\Lab47\obj\Debug\Lab47.exe
+F:\C#\Lab47\Lab47\obj\Debug\Lab47.pdb
+F:\C#\Lab47\Lab47\bin\Debug\Lab47.exe
+F:\C#\Lab47\Lab47\bin\Debug\Lab47.pdb
+F:\C#\Lab47\Lab47\obj\Debug\Lab47.csprojResolveAssemblyReference.cache

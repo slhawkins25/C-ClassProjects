@@ -1,0 +1,9 @@
+c:\C#\Lab48\Lab48\bin\Debug\Lab48.exe.config
+c:\C#\Lab48\Lab48\bin\Debug\Lab48.exe
+c:\C#\Lab48\Lab48\bin\Debug\Lab48.pdb
+c:\C#\Lab48\Lab48\obj\Debug\Lab48.csprojResolveAssemblyReference.cache
+c:\C#\Lab48\Lab48\obj\Debug\Lab48.exe
+c:\C#\Lab48\Lab48\obj\Debug\Lab48.pdb
+F:\C#\Lab48\Lab48\bin\Debug\Lab48.exe.config
+F:\C#\Lab48\Lab48\obj\Debug\Lab48.exe
+F:\C#\Lab48\Lab48\obj\Debug\Lab48.pdb

@@ -1,0 +1,9 @@
+c:\C#\Lab 53\Lab 53\bin\Debug\Lab 53.exe.config
+c:\C#\Lab 53\Lab 53\bin\Debug\Lab 53.exe
+c:\C#\Lab 53\Lab 53\bin\Debug\Lab 53.pdb
+c:\C#\Lab 53\Lab 53\obj\Debug\Lab 53.exe
+c:\C#\Lab 53\Lab 53\obj\Debug\Lab 53.pdb
+c:\C#\Lab 53\Lab 53\obj\Debug\Lab 53.csprojResolveAssemblyReference.cache
+F:\C#\Lab53\Lab 53\bin\Debug\Lab 53.exe.config
+F:\C#\Lab53\Lab 53\obj\Debug\Lab 53.exe
+F:\C#\Lab53\Lab 53\obj\Debug\Lab 53.pdb
