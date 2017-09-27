@@ -1,0 +1,8 @@
+c:\C#\Lab10H\Lab10H\bin\Debug\Lab10H.exe.config
+c:\C#\Lab10H\Lab10H\bin\Debug\Lab10H.exe
+c:\C#\Lab10H\Lab10H\bin\Debug\Lab10H.pdb
+c:\C#\Lab10H\Lab10H\obj\Debug\Lab10H.exe
+c:\C#\Lab10H\Lab10H\obj\Debug\Lab10H.pdb
+F:\C#\Lab10H\Lab10H\bin\Debug\Lab10H.exe.config
+F:\C#\Lab10H\Lab10H\obj\Debug\Lab10H.exe
+F:\C#\Lab10H\Lab10H\obj\Debug\Lab10H.pdb
