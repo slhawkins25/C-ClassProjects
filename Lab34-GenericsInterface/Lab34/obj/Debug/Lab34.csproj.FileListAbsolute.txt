@@ -1,0 +1,9 @@
+c:\C#\Lab34\Lab34\bin\Debug\Lab34.exe.config
+c:\C#\Lab34\Lab34\bin\Debug\Lab34.exe
+c:\C#\Lab34\Lab34\bin\Debug\Lab34.pdb
+c:\C#\Lab34\Lab34\obj\Debug\Lab34.csprojResolveAssemblyReference.cache
+c:\C#\Lab34\Lab34\obj\Debug\Lab34.exe
+c:\C#\Lab34\Lab34\obj\Debug\Lab34.pdb
+F:\C#\Lab34\Lab34\bin\Debug\Lab34.exe.config
+F:\C#\Lab34\Lab34\obj\Debug\Lab34.exe
+F:\C#\Lab34\Lab34\obj\Debug\Lab34.pdb
