@@ -1,0 +1,9 @@
+c:\C#\Lab23\Lab23\obj\Debug\Lab23.csprojResolveAssemblyReference.cache
+c:\C#\Lab23\Lab23\bin\Debug\Lab23.exe.config
+c:\C#\Lab23\Lab23\bin\Debug\Lab23.exe
+c:\C#\Lab23\Lab23\bin\Debug\Lab23.pdb
+c:\C#\Lab23\Lab23\obj\Debug\Lab23.exe
+c:\C#\Lab23\Lab23\obj\Debug\Lab23.pdb
+F:\C#\Lab23\Lab23\bin\Debug\Lab23.exe.config
+F:\C#\Lab23\Lab23\obj\Debug\Lab23.exe
+F:\C#\Lab23\Lab23\obj\Debug\Lab23.pdb

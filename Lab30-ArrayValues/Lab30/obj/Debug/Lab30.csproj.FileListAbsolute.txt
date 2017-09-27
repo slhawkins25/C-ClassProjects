@@ -1,0 +1,9 @@
+c:\C#\Lab30\Lab30\bin\Debug\Lab30.exe.config
+c:\C#\Lab30\Lab30\bin\Debug\Lab30.exe
+c:\C#\Lab30\Lab30\bin\Debug\Lab30.pdb
+c:\C#\Lab30\Lab30\obj\Debug\Lab30.csprojResolveAssemblyReference.cache
+c:\C#\Lab30\Lab30\obj\Debug\Lab30.exe
+c:\C#\Lab30\Lab30\obj\Debug\Lab30.pdb
+F:\C#\Lab30\Lab30\bin\Debug\Lab30.exe.config
+F:\C#\Lab30\Lab30\obj\Debug\Lab30.exe
+F:\C#\Lab30\Lab30\obj\Debug\Lab30.pdb
