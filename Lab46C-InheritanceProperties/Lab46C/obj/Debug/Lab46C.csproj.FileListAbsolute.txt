@@ -1,0 +1,6 @@
+C:\C#\Lab46C\Lab46C\bin\Debug\Lab46A.exe.config
+C:\C#\Lab46C\Lab46C\bin\Debug\Lab46A.exe
+C:\C#\Lab46C\Lab46C\bin\Debug\Lab46A.pdb
+C:\C#\Lab46C\Lab46C\obj\Debug\Lab46C.csprojResolveAssemblyReference.cache
+C:\C#\Lab46C\Lab46C\obj\Debug\Lab46A.exe
+C:\C#\Lab46C\Lab46C\obj\Debug\Lab46A.pdb
