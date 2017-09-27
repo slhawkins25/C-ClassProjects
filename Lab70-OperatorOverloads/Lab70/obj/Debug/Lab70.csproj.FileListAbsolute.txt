@@ -1,0 +1,6 @@
+F:\C#\Lab70\Lab70\bin\Debug\Lab70.exe.config
+F:\C#\Lab70\Lab70\bin\Debug\Lab70.exe
+F:\C#\Lab70\Lab70\bin\Debug\Lab70.pdb
+F:\C#\Lab70\Lab70\obj\Debug\Lab70.csprojResolveAssemblyReference.cache
+F:\C#\Lab70\Lab70\obj\Debug\Lab70.exe
+F:\C#\Lab70\Lab70\obj\Debug\Lab70.pdb
