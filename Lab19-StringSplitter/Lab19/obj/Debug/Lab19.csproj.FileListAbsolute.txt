@@ -1,0 +1,9 @@
+c:\C#\Lab19\Lab19\bin\Debug\Lab19.exe.config
+c:\C#\Lab19\Lab19\bin\Debug\Lab19.exe
+c:\C#\Lab19\Lab19\bin\Debug\Lab19.pdb
+c:\C#\Lab19\Lab19\obj\Debug\Lab19.csprojResolveAssemblyReference.cache
+c:\C#\Lab19\Lab19\obj\Debug\Lab19.exe
+c:\C#\Lab19\Lab19\obj\Debug\Lab19.pdb
+F:\C#\Lab19\Lab19\bin\Debug\Lab19.exe.config
+F:\C#\Lab19\Lab19\obj\Debug\Lab19.exe
+F:\C#\Lab19\Lab19\obj\Debug\Lab19.pdb

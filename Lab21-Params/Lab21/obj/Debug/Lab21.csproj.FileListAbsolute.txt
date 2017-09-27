@@ -1,0 +1,9 @@
+c:\C#\Lab21\Lab21\bin\Debug\Lab21.exe.config
+c:\C#\Lab21\Lab21\bin\Debug\Lab21.exe
+c:\C#\Lab21\Lab21\bin\Debug\Lab21.pdb
+c:\C#\Lab21\Lab21\obj\Debug\Lab21.csprojResolveAssemblyReference.cache
+c:\C#\Lab21\Lab21\obj\Debug\Lab21.exe
+c:\C#\Lab21\Lab21\obj\Debug\Lab21.pdb
+F:\C#\Lab21\Lab21\bin\Debug\Lab21.exe.config
+F:\C#\Lab21\Lab21\obj\Debug\Lab21.exe
+F:\C#\Lab21\Lab21\obj\Debug\Lab21.pdb

@@ -1,0 +1,12 @@
+C:\C#\Lab20\Lab20\bin\Debug\Lab20.exe.config
+C:\C#\Lab20\Lab20\bin\Debug\Lab20.exe
+C:\C#\Lab20\Lab20\bin\Debug\Lab20.pdb
+C:\C#\Lab20\Lab20\obj\Debug\Lab20.csprojResolveAssemblyReference.cache
+C:\C#\Lab20\Lab20\obj\Debug\Lab20.exe
+C:\C#\Lab20\Lab20\obj\Debug\Lab20.pdb
+F:\C#\Lab20\Lab20\bin\Debug\Lab20.exe.config
+F:\C#\Lab20\Lab20\obj\Debug\Lab20.exe
+F:\C#\Lab20\Lab20\obj\Debug\Lab20.pdb
+F:\C#\Lab20\Lab20\bin\Debug\Lab20.exe
+F:\C#\Lab20\Lab20\bin\Debug\Lab20.pdb
+F:\C#\Lab20\Lab20\obj\Debug\Lab20.csprojResolveAssemblyReference.cache
