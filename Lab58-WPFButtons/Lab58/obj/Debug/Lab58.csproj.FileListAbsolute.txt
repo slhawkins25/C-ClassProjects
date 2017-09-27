@@ -1,0 +1,14 @@
+F:\C#\Lab58\Lab58\bin\Debug\Lab58.exe.config
+F:\C#\Lab58\Lab58\bin\Debug\Lab58.exe
+F:\C#\Lab58\Lab58\bin\Debug\Lab58.pdb
+F:\C#\Lab58\Lab58\obj\Debug\Lab58.csprojResolveAssemblyReference.cache
+F:\C#\Lab58\Lab58\obj\Debug\MainWindow.g.cs
+F:\C#\Lab58\Lab58\obj\Debug\App.g.cs
+F:\C#\Lab58\Lab58\obj\Debug\Lab58_MarkupCompile.cache
+F:\C#\Lab58\Lab58\obj\Debug\Lab58_MarkupCompile.lref
+F:\C#\Lab58\Lab58\obj\Debug\MainWindow.baml
+F:\C#\Lab58\Lab58\obj\Debug\Lab58.g.resources
+F:\C#\Lab58\Lab58\obj\Debug\Lab58.Properties.Resources.resources
+F:\C#\Lab58\Lab58\obj\Debug\Lab58.csproj.GenerateResource.Cache
+F:\C#\Lab58\Lab58\obj\Debug\Lab58.exe
+F:\C#\Lab58\Lab58\obj\Debug\Lab58.pdb

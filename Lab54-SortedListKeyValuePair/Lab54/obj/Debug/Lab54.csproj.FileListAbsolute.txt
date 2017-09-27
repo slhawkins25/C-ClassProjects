@@ -1,0 +1,9 @@
+c:\C#\Lab54\Lab54\bin\Debug\Lab54.exe.config
+c:\C#\Lab54\Lab54\bin\Debug\Lab54.exe
+c:\C#\Lab54\Lab54\bin\Debug\Lab54.pdb
+c:\C#\Lab54\Lab54\obj\Debug\Lab54.exe
+c:\C#\Lab54\Lab54\obj\Debug\Lab54.pdb
+c:\C#\Lab54\Lab54\obj\Debug\Lab54.csprojResolveAssemblyReference.cache
+F:\C#\Lab54\Lab54\bin\Debug\Lab54.exe.config
+F:\C#\Lab54\Lab54\obj\Debug\Lab54.exe
+F:\C#\Lab54\Lab54\obj\Debug\Lab54.pdb
